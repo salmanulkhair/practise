@@ -5,3 +5,9 @@ git clone https://github.com/salmanulkhair/practise.git
 
 2) making new branch
 git checkout -b "first-branch"
+
+3) add changes to stage
+git add . or git add filename
+
+4) commit changes with message
+git commit -m "first-branch:line1to5added"
