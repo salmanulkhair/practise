@@ -1,0 +1,4 @@
+hello github practice
+
+1) Already cloned from git hub using
+git clone https://github.com/salmanulkhair/practise.git
