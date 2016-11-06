@@ -26,3 +26,7 @@ git add .
 
 d: than make a new commit
 git commit -m "first-branch:third-commit"
+
+e: checkout to master and merge
+git checkout master
+git merge first-branch
