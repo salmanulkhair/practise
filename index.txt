@@ -5,3 +5,14 @@ git clone https://github.com/salmanulkhair/practise.git
 
 5) get to another branch
 git checkout master
+
+6) a: merge master into second branch
+(on first-branch) git merge master
+
+b: solve conflict by removing <<<<<<< ======= >>>>>>>
+
+c: than add new changes to stage
+git add .
+
+d: than make a new commit
+git commit -m "first-branch:third-commit"
