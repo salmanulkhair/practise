@@ -16,3 +16,9 @@ git add .
 
 d: than make a new commit
 git commit -m "first-branch:third-commit"
+
+7) or just merge the branch directly to master by going to master and than merge the second-branch
+git checkout master
+git merge second-master
+
+ 
